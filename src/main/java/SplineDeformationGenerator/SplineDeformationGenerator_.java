@@ -34,19 +34,19 @@ package SplineDeformationGenerator;
                            and GNU license)
 \========================================================================*/
 
-import ij.gui.GUI;
-import ij.gui.ImageCanvas;
-import ij.gui.ImageWindow;
 import ij.IJ;
 import ij.ImagePlus;
 import ij.Macro;
+import ij.WindowManager;
+import ij.gui.GUI;
+import ij.gui.ImageCanvas;
+import ij.gui.ImageWindow;
+import ij.io.Opener;
 import ij.plugin.PlugIn;
 import ij.process.ByteProcessor;
-import ij.process.ShortProcessor;
 import ij.process.FloatProcessor;
 import ij.process.ImageProcessor;
-import ij.WindowManager;
-import ij.io.Opener;
+import ij.process.ShortProcessor;
 
 import java.awt.Button;
 import java.awt.Checkbox;
@@ -67,8 +67,8 @@ import java.awt.event.TextEvent;
 import java.awt.event.TextListener;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Stack;
 import java.util.Random;
+import java.util.Stack;
 import java.util.StringTokenizer;
 
 
