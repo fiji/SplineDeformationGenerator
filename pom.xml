@@ -87,8 +87,8 @@
 		<url>https://github.com/fiji/SplineDeformationGenerator/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/SplineDeformationGenerator/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/SplineDeformationGenerator</url>
 	</ciManagement>
 
 	<properties>
