@@ -54,6 +54,11 @@
 	</developers>
 	<contributors>
 		<contributor>
+			<name>Carlos Óscar Sánchez Sorzano</name>
+			<url>https://imagej.net/User:Sorzano</url>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
 			<name>Johannes Schindelin</name>
 			<url>https://imagej.net/User:Schindelin</url>
 			<roles><role>founder</role></roles>
