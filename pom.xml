@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>SplineDeformationGenerator_</artifactId>
-	<version>2.0.2-SNAPSHOT</version>
+	<version>2.0.2</version>
 
 	<name>SplineDeformationGenerator</name>
 	<description>SplineDeformationGenerator plugin for Fiji.</description>
@@ -81,7 +81,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/SplineDeformationGenerator</connection>
 		<developerConnection>scm:git:git@github.com:fiji/SplineDeformationGenerator</developerConnection>
-		<tag>HEAD</tag>
+		<tag>SplineDeformationGenerator_-2.0.2</tag>
 		<url>https://github.com/fiji/SplineDeformationGenerator</url>
 	</scm>
 	<issueManagement>
