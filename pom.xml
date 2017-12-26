@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>SplineDeformationGenerator_</artifactId>
-	<version>2.0.2-SNAPSHOT</version>
+	<version>2.0.3-SNAPSHOT</version>
 
 	<name>SplineDeformationGenerator</name>
 	<description>SplineDeformationGenerator plugin for Fiji.</description>
